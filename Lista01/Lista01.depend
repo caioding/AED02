@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1681396097 source:c:\users\caio7\documents\lista01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao01.h"
+	"questao02.h"
+	"questao03.h"
+	"questao04.h"
+	"questao05.h"
+	"questao06.h"
+	"questao07.h"
+	"questao08.h"
+	"questao09.h"
+	"questao10.h"
+	"questao11.h"
+	"questao12.h"
+	"questao13.h"
+	"questao14.h"
+	"questao15.h"
+	"questao16.h"
+	"questao17.h"
+	"questao18.h"
+	"questao19.h"
+	"questao20.h"
+	"questao21.h"
+	"questao22.h"
+	"questao23.h"
+	"questao24.h"
+
+1681186292 source:c:\users\caio7\documents\lista01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1681186292 c:\users\caio7\documents\lista01\questao01.h
+
+1681248279 source:c:\users\caio7\documents\lista01\questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"questao02.h"
+
+1681216293 c:\users\caio7\documents\lista01\questao02.h
+
+1681249342 c:\users\caio7\documents\lista01\questao03.h
+
+1681251739 source:c:\users\caio7\documents\lista01\questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"questao03.h"
+
+1681259964 source:c:\users\caio7\documents\lista01\questao04.c
+	<stdio.h>
+	<stdlib.h>
+	"questao04.h"
+
+1681257962 c:\users\caio7\documents\lista01\questao04.h
+
+1681259872 c:\users\caio7\documents\lista01\questao05.h
+
+1681261271 source:c:\users\caio7\documents\lista01\questao05.c
+	<stdio.h>
+	<stdlib.h>
+	"questao05.h"
+
+1681261787 c:\users\caio7\documents\lista01\questao06.h
+
+1681261787 source:c:\users\caio7\documents\lista01\questao06.c
+	<stdio.h>
+	<stdlib.h>
+	"questao06.h"
+
+1681262833 c:\users\caio7\documents\lista01\questao07.h
+
+1681263572 source:c:\users\caio7\documents\lista01\questao07.c
+	<stdio.h>
+	<stdlib.h>
+	"questao07.h"
+
+1681264066 source:c:\users\caio7\documents\lista01\questao08.c
+	<stdio.h>
+	<stdlib.h>
+	"questao08.h"
+
+1681264025 c:\users\caio7\documents\lista01\questao08.h
+
+1681264382 c:\users\caio7\documents\lista01\questao09.h
+
+1681264646 source:c:\users\caio7\documents\lista01\questao09.c
+	<stdio.h>
+	<stdlib.h>
+	"questao09.h"
+
+1681265252 c:\users\caio7\documents\lista01\questao10.h
+
+1681401317 source:c:\users\caio7\documents\lista01\questao10.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao10.h"
+
+1681330759 c:\users\caio7\documents\lista01\questao11.h
+
+1681330969 source:c:\users\caio7\documents\lista01\questao11.c
+	<stdio.h>
+	<stdlib.h>
+	"questao11.h"
+
+1681332559 source:c:\users\caio7\documents\lista01\questao12.c
+	<stdio.h>
+	<stdlib.h>
+	"questao12.h"
+
+1681331681 c:\users\caio7\documents\lista01\questao12.h
+
+1681332943 source:c:\users\caio7\documents\lista01\questao13.c
+	<stdio.h>
+	<stdlib.h>
+	"questao13.h"
+
+1681332933 c:\users\caio7\documents\lista01\questao13.h
+
+1681333280 source:c:\users\caio7\documents\lista01\questao14.c
+	<stdio.h>
+	<stdlib.h>
+	"questao14.h"
+
+1681333237 c:\users\caio7\documents\lista01\questao14.h
+
+1681334156 source:c:\users\caio7\documents\lista01\questao15.c
+	<stdio.h>
+	<stdlib.h>
+	"questao15.h"
+
+1681333607 c:\users\caio7\documents\lista01\questao15.h
+
+1681334633 c:\users\caio7\documents\lista01\questao16.h
+
+1681335244 source:c:\users\caio7\documents\lista01\questao16.c
+	<stdio.h>
+	<stdlib.h>
+	"questao16.h"
+
+1681336224 source:c:\users\caio7\documents\lista01\questao17.c
+	<stdio.h>
+	<stdlib.h>
+	"questao17.h"
+
+1681335975 c:\users\caio7\documents\lista01\questao17.h
+
+1681343080 c:\users\caio7\documents\lista01\questao18.h
+
+1681343269 source:c:\users\caio7\documents\lista01\questao18.c
+	<stdio.h>
+	<stdlib.h>
+	"questao18.h"
+
+1681344081 c:\users\caio7\documents\lista01\questao19.h
+
+1681344536 source:c:\users\caio7\documents\lista01\questao19.c
+	<stdio.h>
+	<stdlib.h>
+	"questao19.h"
+
+1681345135 c:\users\caio7\documents\lista01\questao20.h
+
+1681345909 source:c:\users\caio7\documents\lista01\questao20.c
+	<stdio.h>
+	<stdlib.h>
+	"questao20.h"
+
+1681346214 c:\users\caio7\documents\lista01\questao21.h
+
+1681347786 source:c:\users\caio7\documents\lista01\questao21.c
+	<stdio.h>
+	<stdlib.h>
+	"questao21.h"
+
+1681397651 source:c:\users\caio7\documents\lista01\questao23.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"questao23.h"
+
+1681350881 c:\users\caio7\documents\lista01\questao22.h
+
+1681350924 source:c:\users\caio7\documents\lista01\questao.c
+
+1681351881 source:c:\users\caio7\documents\lista01\questao22.c
+	<stdio.h>
+	<stdlib.h>
+	"questao22.h"
+
+1681352308 c:\users\caio7\documents\lista01\questao23.h
+
+1681354462 c:\users\caio7\documents\lista01\questao24.h
+
+1681355388 source:c:\users\caio7\documents\lista01\questao24.c
+	<stdio.h>
+	<stdlib.h>
+	"questao24.h"
+
