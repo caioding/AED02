@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1684444127 source:c:\users\caio7\documents\aed02\lista02\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1684422287 source:c:\users\caio7\documents\aed02\lista02\test.c
+	<stdio.h>
+	<stdlib.h>
+
