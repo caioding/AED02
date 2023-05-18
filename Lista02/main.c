@@ -63,7 +63,7 @@ int main(){
         printf("%4d", n[i]);
    }
 
-   bs(n, TAM);
+   //bs(n, TAM);
    //is(n, TAM);
    //ss(n, TAM);
 
