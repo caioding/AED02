@@ -132,7 +132,6 @@ void qs(int n[], int ini, int fim){
 
 int main(){
    int n[TAM] = {4, 5, 8, 2, 9, 1 , 3, 7, 6}, i;
-   int a[0], b[8];
 
    printf("Orden atual dos itens:\n");
    for(i = 0; i < TAM; i++){
